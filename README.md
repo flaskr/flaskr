@@ -1,3 +1,4 @@
+## Hello!
 - Talk to me about everything Tech and Finance
 - I'm currently working as a Smart Contract Developer
 - I'm currently learning more about smart contract security
