@@ -6,6 +6,7 @@
 
 ## Projects & Experiments
 - [non-custodial NFT lending](https://github.com/flaskr/nft-lend-v2)
+- [CTF - Damn Vulnerable DeFi](https://github.com/flaskr/damn-vulnerable-defi-foundry)
 
 ## Contact
 Email: mail@franklim.xyz
