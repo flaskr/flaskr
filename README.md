@@ -5,9 +5,11 @@
 - 7 years of experience writing Java backend code in financial settlements and risk domain
 
 ## Projects & Experiments
-- [non-custodial NFT lending](https://github.com/flaskr/nft-lend-v2)
-- [CTF - Damn Vulnerable DeFi](https://github.com/flaskr/damn-vulnerable-defi-foundry)
+- [Non-Custodial NFT lending](https://github.com/flaskr/nft-lend-v2)
 - [Create3 salt miner](https://github.com/flaskr/addrminer)
+
+## CTFs
+- [Damn Vulnerable DeFi](https://github.com/flaskr/damn-vulnerable-defi-foundry)
 
 ## Contact
 Email: mail@franklim.xyz
