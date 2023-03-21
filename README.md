@@ -10,6 +10,7 @@
 
 ## CTFs
 - [Damn Vulnerable DeFi](https://github.com/flaskr/damn-vulnerable-defi-foundry)
+- [Ethernaut](https://github.com/flaskr/ctf-learnings/blob/main/ethernaut.md)
 
 ## Contact
 Email: mail@franklim.xyz
